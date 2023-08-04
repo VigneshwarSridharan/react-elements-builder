@@ -1,0 +1,11 @@
+export const ELEMENT_TYPE = {
+  GRID: "GRID",
+  PARAGRAPH: "PARAGRAPH",
+  HEADING: "HEADING",
+};
+
+export const ELEMENT_OPTIONS_TYPE = {
+  TEXT: "TEXT",
+  TEXTAREA: "TEXTAREA",
+  SELECT: "SELECT",
+};
